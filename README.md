@@ -2,6 +2,10 @@
 一个Bilibili评论图片生成器
 
 被[这位](https://kolpower.cc/cmt)所激发的灵感
+## 依赖：
+
+request, PIL, bilibili_api
+
 
 ## 使用方法：
 
